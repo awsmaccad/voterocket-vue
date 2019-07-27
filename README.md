@@ -1,5 +1,11 @@
 # voterocket
 
+## Install Amplify CLI and Vue CLI 
+```
+npm install -g @aws-amplify/cli
+npm install -g @vue/cli
+```
+
 ## Initialize Amplify
 ```
 amplify init
